@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="CardCollectionViewCell" id="gTV-IL-0wX" customClass="CardCollectionViewCell" customModule="Week6" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="110" height="160"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="110" height="160"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="IH3-Vz-IZG">
+                        <rect key="frame" x="0.0" y="0.0" width="110" height="160"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="001-strawberry" translatesAutoresizingMaskIntoConstraints="NO" id="uLn-ck-B71" userLabel="Foreground Image">
+                                <rect key="frame" x="0.0" y="0.0" width="110" height="160"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="card back" translatesAutoresizingMaskIntoConstraints="NO" id="Ba5-xL-cD8" userLabel="Background Image">
+                                <rect key="frame" x="0.0" y="0.0" width="110" height="160"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="IH3-Vz-IZG" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="J9M-sc-gfu"/>
+                <constraint firstAttribute="trailing" secondItem="IH3-Vz-IZG" secondAttribute="trailing" id="TmB-w3-RUq"/>
+                <constraint firstAttribute="bottom" secondItem="IH3-Vz-IZG" secondAttribute="bottom" id="akA-Vu-sNb"/>
+                <constraint firstItem="IH3-Vz-IZG" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="nKf-b4-mzW"/>
+            </constraints>
+            <connections>
+                <outlet property="backImageView" destination="Ba5-xL-cD8" id="2SV-nl-ADm"/>
+                <outlet property="frontImageView" destination="uLn-ck-B71" id="fTB-Pl-Nhg"/>
+            </connections>
+            <point key="canvasLocation" x="18.840579710144929" y="108.48214285714285"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="001-strawberry" width="512" height="512"/>
+        <image name="card back" width="860" height="1248"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
