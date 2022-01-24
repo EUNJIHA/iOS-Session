@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0D7845F9-2D5A-448A-803D-D3DB232CBB2C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "867A190C-A27B-416F-99AB-4BA08D023702"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Week4/S Notes/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F3DEC68-F5EE-413F-8AFD-23407158609A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Week4/S Notes/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "MainViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80335D13-D4AA-4BAE-9635-1B957E4EBD0B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Week4/S Notes/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "169"
+            endingLineNumber = "169">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D00A25B-2A6F-4FA9-8DD6-49FDC235FC68"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Week4/S Notes/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE8D3531-EC9E-4B45-BEA6-AE9103F9FAED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Week4/S Notes/Controller/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "MainViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CE8D3531-EC9E-4B45-BEA6-AE9103F9FAED - bece107b4ddea882"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Week4.MainViewController.addButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Week4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Dev/iOS%20%E1%84%80%E1%85%AA%E1%84%8B%E1%85%AC/Week4/Week4/Week4/S%20Notes/Controller/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "CE8D3531-EC9E-4B45-BEA6-AE9103F9FAED - dd7f4958b4005496"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Week4.MainViewController.addButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Week4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Dev/iOS%20%E1%84%80%E1%85%AA%E1%84%8B%E1%85%AC/Week4/Week4/Week4/S%20Notes/Controller/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "CE8D3531-EC9E-4B45-BEA6-AE9103F9FAED - 57885f3c0cad4256"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Week4.MainViewController.addButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Week4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Dev/iOS%20%E1%84%80%E1%85%AA%E1%84%8B%E1%85%AC/Week4/Week4/Week4/S%20Notes/Controller/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "CE8D3531-EC9E-4B45-BEA6-AE9103F9FAED - 10e0cdb7937b6471"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Week4.MainViewController.addButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Week4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Dev/iOS%20%E1%84%80%E1%85%AA%E1%84%8B%E1%85%AC/Week4/Week4/Week4/S%20Notes/Controller/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "CE8D3531-EC9E-4B45-BEA6-AE9103F9FAED - 2564e3953d34acc4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Week4.MainViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Week4.MainViewController"
+                  moduleName = "Week4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Dev/iOS%20%E1%84%80%E1%85%AA%E1%84%8B%E1%85%AC/Week4/Week4/Week4/S%20Notes/Controller/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "417">
+               </Location>
+               <Location
+                  uuid = "CE8D3531-EC9E-4B45-BEA6-AE9103F9FAED - 3875d595f68711f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Week4.MainViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Week4.MainViewController&gt;"
+                  moduleName = "Week4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Dev/iOS%20%E1%84%80%E1%85%AA%E1%84%8B%E1%85%AC/Week4/Week4/Week4/S%20Notes/Controller/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "358">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D831774-B123-4371-B5D1-208AFA93CDE4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Week4/S Notes/Controller/NoteDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2C3B42BE-56CA-4525-B65F-E71D75EE5EFC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Week4/S Notes/Controller/NoteDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
