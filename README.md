@@ -36,3 +36,16 @@ iOS Session 2021 (2021.01 ~ 2021.03)
 
 ## Week 4
 ### Keyword
+`UITableView`, `UITableViewCell`, `MVC(Model-View-Controller`, `struct`, `enum`, `UISearchController`, `CRUD`
+
+### Detail
+
+<p float="left">
+  <img width="180" alt="Week4" src="https://user-images.githubusercontent.com/43839938/156967814-e5e4050d-dcb6-4bd0-a787-29452da22868.png">
+  <img width="180" alt="Week4" src="https://user-images.githubusercontent.com/43839938/156967825-4b60a410-f074-4ec2-a79c-5feecafe697b.png">
+  <img width="180" alt="Week4" src="https://user-images.githubusercontent.com/43839938/156967849-aa89850a-55a8-49e9-8a3d-1ed74c264ed6.png">
+  <img width="180" alt="Week4" src="https://user-images.githubusercontent.com/43839938/156967864-0b0ca4ae-5f3f-43e6-bd82-0cf1c7d5c68b.png">
+  <img width="180" alt="Week4" src="https://user-images.githubusercontent.com/43839938/156967888-1c6ba84a-2643-41f3-8a2a-124eade159c5.png">
+  <img width="180" alt="Week4" src="https://user-images.githubusercontent.com/43839938/156967921-c043cb7f-aced-4d5d-91b5-24db1b2ce7a1.png">
+  <img width="180" alt="Week4" src="https://user-images.githubusercontent.com/43839938/156968021-43f4c139-4ca4-48d1-b14b-8e71d9bd7811.png">
+</p>
